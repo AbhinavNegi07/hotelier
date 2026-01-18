@@ -1,4 +1,4 @@
-# Otelier - Hotel Search & Comparison Platform
+# Hotelier - Hotel Search & Comparison Platform
 
 A modern, production-ready hospitality frontend application built with React 18, featuring secure authentication, hotel search with filters, and an interactive comparison engine.
 
@@ -182,7 +182,7 @@ Set the following in your deployment platform:
 
 ### Current: Mock Data
 
-The app uses realistic mock data (20 hotels) that mirrors the Amadeus API structure.
+The app uses realistic mock data (36 hotels) that mirrors the Amadeus API structure.
 
 ### Future: Amadeus API
 
