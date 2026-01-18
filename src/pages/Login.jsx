@@ -99,7 +99,7 @@ const Login = () => {
           >
             <span className="text-3xl">🏨</span>
             <span className="bg-linear-to-r from-amber-400 to-amber-600 bg-clip-text text-transparent">
-              Otelier
+              Hotelier
             </span>
           </Link>
           <h1 className="text-xl font-semibold text-white mt-4">

@@ -22,7 +22,7 @@ const Footer = () => {
             >
               <span className="text-2xl">🏨</span>
               <span className="bg-linear-to-r from-amber-400 to-amber-600 bg-clip-text text-transparent">
-                Otelier
+                Hotelier
               </span>
             </Link>
             <p className="text-slate-400 text-sm max-w-md">
@@ -89,7 +89,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="mt-5 mb-2 pt-8 border-t border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-slate-500 text-sm">
-            © {currentYear} Otelier. All rights reserved.
+            © {currentYear} Hotelier. All rights reserved.
           </p>
           <div className="flex items-center gap-4">
             <a

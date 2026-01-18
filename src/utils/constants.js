@@ -11,9 +11,9 @@ export const HOTELS_PER_PAGE = 12;
 
 /** LocalStorage keys */
 export const STORAGE_KEYS = {
-  COMPARISON_LIST: "otelier_comparison_list",
-  THEME: "otelier_theme",
-  RECENT_SEARCHES: "otelier_recent_searches",
+  COMPARISON_LIST: "Hotelier_comparison_list",
+  THEME: "Hotelier_theme",
+  RECENT_SEARCHES: "Hotelier_recent_searches",
 };
 
 /** API endpoints (for future use with real APIs) */

@@ -42,7 +42,7 @@ const Navbar = () => {
           >
             <span className="text-2xl">🏨</span>
             <span className="bg-linear-to-r from-amber-400 to-amber-600 bg-clip-text text-transparent">
-              Otelier
+              Hotelier
             </span>
           </Link>
 

@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 
 /**
- * Vite configuration for Otelier Hospitality Application
+ * Vite configuration for Hotelier Hospitality Application
  * @see https://vitejs.dev/config/
  */
 export default defineConfig({

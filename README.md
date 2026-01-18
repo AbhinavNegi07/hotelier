@@ -1,4 +1,4 @@
-# Otelier - Hotel Search & Comparison Platform
+# Hotelier - Hotel Search & Comparison Platform
 
 A modern, production-ready hospitality frontend application built with React 18, featuring secure authentication, hotel search with filters, and an interactive comparison engine.
 
@@ -28,7 +28,7 @@ A modern, production-ready hospitality frontend application built with React 18,
 ```bash
 # Clone the repository
 git clone <repo-url>
-cd otelier-assignment
+cd Hotelier-assignment
 
 # Install dependencies
 npm install
@@ -212,4 +212,4 @@ MIT License - See LICENSE file for details.
 
 ---
 
-Built with ❤️ for the Otelier Assignment
+Built with ❤️ for the Hotelier Assignment
