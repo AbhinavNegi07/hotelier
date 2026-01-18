@@ -206,10 +206,4 @@ To enable live data:
 - [x] Logout functionality
 - [x] Responsive on mobile
 
-## 📄 License
 
-MIT License - See LICENSE file for details.
-
----
-
-Built with ❤️ for the Otelier Assignment
