@@ -182,7 +182,7 @@ Set the following in your deployment platform:
 
 ### Current: Mock Data
 
-The app uses realistic mock data (20 hotels) that mirrors the Amadeus API structure.
+The app uses realistic mock data (36 hotels) that mirrors the Amadeus API structure.
 
 ### Future: Amadeus API
 
@@ -206,10 +206,12 @@ To enable live data:
 - [x] Logout functionality
 - [x] Responsive on mobile
 
-## 📄 License
 
+<<<<<<< HEAD
 MIT License - See LICENSE file for details.
 
 ---
 
 Built with ❤️ for the Hotelier Assignment
+=======
+>>>>>>> 43b750c43742419b28261871373e2a92c0cd577f
